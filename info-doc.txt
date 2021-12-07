@@ -1,0 +1,10 @@
+Contract
+- Full NFT
+- Marketplace
+- Mint (ETH&sol)
+
+webpage
+- marketplace
+- mint rinkeby
+- mint sol devnet
+
